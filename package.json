@@ -9,6 +9,6 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "chart.js": "chart.js"
+    "chart.js": "^2.9.4"
   }
 }
